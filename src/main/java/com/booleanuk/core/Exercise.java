@@ -35,7 +35,6 @@ public class Exercise extends ExerciseBase {
         list.add(42);
         list.add(360);
         list.add(120);
-
         return list;
     }
 
